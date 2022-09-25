@@ -1,6 +1,6 @@
 // declare class
 class Shape {
-  var color = red;
+  this.color = red;
   drawShape() {
     console.log("Shape Drawn"); 
   }

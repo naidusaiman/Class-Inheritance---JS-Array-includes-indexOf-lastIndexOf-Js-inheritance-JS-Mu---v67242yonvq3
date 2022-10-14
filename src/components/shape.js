@@ -8,6 +8,6 @@ class Shape {
     console.log("Shape Area Calculated"); 
   }
 }
-module.exports = Shape;
+module.exports.Shape = Shape;
 
 // export class using module.exports

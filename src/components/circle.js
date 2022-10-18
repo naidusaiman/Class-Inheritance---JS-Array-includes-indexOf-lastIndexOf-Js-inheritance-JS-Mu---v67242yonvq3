@@ -2,7 +2,7 @@
 
 // declare class
 import {Shape} from '/shape.js';
-class Circle extends Shape {
+export class Circle extends Shape {
   calculateArea(){
    console.log("Circle Area Drawn"); 
   }

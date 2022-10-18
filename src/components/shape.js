@@ -1,5 +1,4 @@
-// declare class
-class Shape {
+export class Shape {
   this.color = red;
   drawShape() {
     console.log("Shape Drawn"); 
@@ -8,6 +7,6 @@ class Shape {
     console.log("Shape Area Calculated"); 
   }
 }
-module.exports.Shape = Shape;
+//module.exports.Shape = Shape;
 
 // export class using module.exports
